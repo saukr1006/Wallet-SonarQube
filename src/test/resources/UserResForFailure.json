@@ -1,0 +1,9 @@
+{
+  "status":"Failed",
+  "error":"User already exist",
+  "obj": {
+    "fname":"Saurabh",
+    "lname":"Kumar",
+    "active":false
+  }
+}

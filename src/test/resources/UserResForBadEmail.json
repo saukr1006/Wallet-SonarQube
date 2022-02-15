@@ -1,0 +1,9 @@
+{
+  "status":"Failed",
+  "error":"Invalid Email Address!!",
+  "obj": {
+    "fname":"Siddhartha",
+    "lname":"Tiwari",
+    "active":false
+  }
+}
